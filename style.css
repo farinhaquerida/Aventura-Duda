@@ -1,0 +1,29 @@
+body{ 
+color:black;
+background-color: blueviolet;
+font-family: "Sofadi One", system-ui;
+font-size: 30px;
+display: flex;
+justify-content: center;
+align-items: center;
+height: 700px
+}
+
+button{
+    color:indianred;
+    background: black;
+    font-family: "Sofadi One", system-ui;
+    font-size: 17px;
+}
+
+.passo {
+     display:none;
+}
+
+.passo.ativo{
+    display:block;
+}
+
+img{
+    height: 300px;
+}
